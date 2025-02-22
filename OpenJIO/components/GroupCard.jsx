@@ -15,6 +15,7 @@ const GroupCard = ({ group }) => {
       <Text className="text-lg font-pregular">Location: {group.location}</Text>
       <Text className="text-lg font-pregular">Time: {group.time}</Text>
     </TouchableOpacity>
+    //test
   );
 };
 
